@@ -6,5 +6,5 @@ edit video = 'xxx/xxx/xxx/xxx.avi'
 
 python inference.py
 
-to master version to get model ckpt
+to master branch to get model ckpt
 
